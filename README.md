@@ -14,7 +14,7 @@ However, they can be prone to overfitting, especially with complex datasets. # B
 1) SVM is a powerful supervised learning algorithm used for classification, regression, and outlier detection.
 2) SVM works by finding the optimal hyperplane that best separates the data points of different classes in a high-dimensional space.
 3) It is effective in high-dimensional spaces and is memory efficient since it only uses a subset of training points (support vectors) to define the decision boundary.
-# Random Foresr: 
+# Random Forest: 
 1) Random Forest is an ensemble learning method that combines multiple decision trees to create a more robust and accurate model.
 2) Unlike a single decision tree, which can overfit on the training data, Random Forest reduces overfitting by averaging the predictions of many trees trained on random subsets of the data.
 3) It introduces randomness both in the selection of data samples (bootstrap samples) and the features considered at each split, leading to diverse trees that collectively provide better generalization.
